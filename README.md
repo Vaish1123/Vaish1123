@@ -1,4 +1,4 @@
-# Hi there, I'm Vaish1123! 👋  
+# Hi there, I'm Vaishnavi! 👋  
 
 Welcome to my GitHub profile!  
 I’m a **Computer Science major at Michigan State University** with minors in **Business** and **Cognitive Science**.  
