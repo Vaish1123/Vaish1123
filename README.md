@@ -1,33 +1,38 @@
-# 🖊️ MNIST Digit Classification with Neural Networks
+# Hi there, I'm Vaish1123! 👋  
 
-This project trains a simple Neural Network on the MNIST dataset (handwritten digits 0–9) using **Keras + TensorFlow**.  
-It’s my first deep learning project and a foundation for more advanced experiments.
-
----
-
-## 📌 Dataset
-- **MNIST**: 70,000 images (28x28 grayscale digits).  
-- 60,000 training, 10,000 testing.  
+Welcome to my GitHub profile!  
+I’m a **Computer Science major at Michigan State University** with minors in **Business** and **Cognitive Science**.  
+Passionate about **AI, data-driven systems, and human cognition**, I’m constantly exploring new ways to grow as a developer and thinker.  
 
 ---
 
-## ⚙️ Model
-- Input layer: 784 neurons (28x28 images flattened)  
-- Hidden layers: Dense + Dropout  
-- Output: 10 classes (softmax activation)  
+## 🌱 Current Focus
+- 📊 Learning **Machine Learning & Deep Learning** with TensorFlow and Keras  
+- 🐍 Strengthening my Python skills for **data analysis & automation**  
+- 🔧 Building projects that combine **probability, coding, and decision-making systems**  
 
 ---
 
-## 🚀 Results
-- Test Accuracy: **~97%**  
-- Confusion Matrix:  
-  ![Confusion Matrix](results/confusion_matrix.png)  
+## 🛠️ Skills & Tools
+- **Languages:** Python, JavaScript, C++  
+- **Frameworks:** TensorFlow, Keras, Flask  
+- **Tools:** Git & GitHub, VS Code, Jupyter Notebook, Linux  
+- **Other:** Data Analysis, REST APIs, Research Writing  
 
 ---
 
-## 📦 Setup
-```bash
-git clone https://github.com/yourusername/mnist-digit-classification.git
-cd mnist-digit-classification
-pip install -r requirements.txt
-python mnist_classification.py
+## ✨ Beyond Tech
+- 📖 Avid reader who loves exploring new perspectives  
+- 🎨 Creative spirit: painting, music,dance, and discovering new cuisines  
+---
+
+## 💡 Favorite Quote
+“Fall seven times and stand up eight.”
+
+---
+
+## 📫 Let’s Connect
+- [LinkedIn](#www.linkedin.com/in/vaishnavi-3591251b4)  
+- [Email](mailto:vaishn10@msu.edu)  
+
+🚀 Thanks for stopping by! Always curious, always learning.  
